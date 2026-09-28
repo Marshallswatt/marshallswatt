@@ -1,5 +1,5 @@
 ## Marshall Swatt
-** Product Leader | FinTech & Blockchain | 0→1 Platforms | 3x Founder**
+** Product Leader | FinTech & Blockchain | 0→1 Platforms | 3x Founder **
 
 Product leader with a record of delivering advanced technology platforms at scale — the smart contract layer of a $7B market cap blockchain, a $200M smart contract treasury, a $20B/day FOREX platform, a 0→1 $1M/day bitcoin exchange, and a 0→1 $10M ARR adtech platform. I define strategy, spin up business units, lead engineering and business teams, and work directly with developers on complex architectures.
 
