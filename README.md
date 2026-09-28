@@ -42,6 +42,7 @@
 ---
 
 ### 📫 Let's Connect
+https://linkedin.com/in/marshallswatt
 
 <!--
   Add badges here, e.g. LinkedIn / personal site / email:
