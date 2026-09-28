@@ -1,54 +1,31 @@
-<h1 align="center">Hi, I'm Marshall Swatt 👋</h1>
-<h3 align="center">Product Manager who builds — not just specs</h3>
+## Marshall Swatt
+** Product Leader | FinTech & Blockchain | 0→1 Platforms | 3x Founder**
 
-<p align="center">
-  I sit at the intersection of product strategy and hands-on engineering: I write the PRD,
-  but I've also read (and sometimes written) the code behind it.
-</p>
+Product leader with a record of delivering advanced technology platforms at scale — the smart contract layer of a $7B market cap blockchain, a $200M smart contract treasury, a $20B/day FOREX platform, a 0→1 $1M/day bitcoin exchange, and a 0→1 $10M ARR adtech platform. I define strategy, spin up business units, lead engineering and business teams, and work directly with developers on complex architectures.
 
----
-
-### 🎯 About Me
-
-- 🧭 I lead product from **discovery through launch**, turning ambiguous problems into shipped, measurable outcomes
-- 🛠️ My technical background means I can go deep with engineering — reading code, understanding architecture tradeoffs, and speaking APIs fluently, not just translating between "business" and "tech"
-- 📊 I'm data-driven by default: instrumentation, experimentation, and clear success metrics are part of the spec, not an afterthought
-- 🤝 I've partnered closely with engineering, design, and data science to ship products end-to-end — not just hand off requirements
-- 🌱 Always learning — currently exploring how AI/LLM tooling changes both the products we build and how we build them
+Syracuse, NY · [marshallswatt@gmail.com](mailto:marshallswatt@gmail.com) · [LinkedIn](https://linkedin.com/in/marshallswatt)
 
 ---
 
-### 💡 Core Expertise
+### Selected work
 
-**Product**
-`Product Strategy` · `Roadmapping` · `Discovery & Research` · `Experimentation (A/B testing)` · `Metrics & Analytics` · `Cross-functional Leadership` · `Go-to-Market` · `Stakeholder Management`
+- **Shipped the first on-chain treasury for a Layer-1 blockchain** (Cardano), holding **$200M+** in smart contracts — whiteboard to launch in **6 months**, managing two outside engineering firms, two independent auditors, and an external governance org.
+- **Owned smart contract strategy across 3 engineering teams (16 engineers)** at Cardano — extended language support to Aiken, Rust, and JavaScript, **doubled smart contract volume to 34%** of network transaction volume, and **cut new-developer onboarding time by 50%**.
+- **Built and ran the technical side of an institutional bitcoin exchange** (Coinsetter) to **$1M+/day** in trading volume with a three-year, zero-breach security record. Sourced **$1.2M** in acquisition capital via the CaVirtEx deal and assisted in the combined company's sale to Kraken.
+- **Built Citigroup's institutional FX platform**, Citi Velocity — FIX API protocol work as part of the core team serving 3 institutional trading desks and 5 external liquidity providers.
+- **Took an adtech platform from $0 to ~$10M ARR in 2 years** (Opt-Intelligence) as Head of Engineering, on a $500K seed.
+- **Raised $1.2M in seed funding** and launched a real-time blockchain analytics platform (OnChain Data) covering 600+ tokens across 15 networks in 6 months.
 
-**Technical**
-`API Design` · `System Architecture (conceptual)` · `SQL & Data Analysis` · `Cloud Platforms` · `Agile / Scrum` · `Technical Documentation` · `Git & CI/CD Workflows`
+### Currently
 
----
+Advising real estate portfolio companies as an independent AI product consultant — building lightweight internal tools (iOS field-ops MVP, a market-data dashboard) and identifying operating and insurance efficiencies for clients.
 
-### 🧰 Tools & Technologies
+Also building AI product skills: agent harnesses, evals, and multi-agent workflows, using Cursor and both frontier and private LLMs.
 
-<p align="left">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Amplitude-0A66FF?style=for-the-badge&logo=amplitude&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-</p>
+### Background
 
----
-
-### 📫 Let's Connect
-https://linkedin.com/in/marshallswatt
-
-<!--
-  Add badges here, e.g. LinkedIn / personal site / email:
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
--->
+- Georgetown University — B.S., Management, Finance & Real Estate
+- Conference speaker and panelist at blockchain, fintech, and US Gov't DTCC events
+- Quoted in national media on blockchain and fintech
 
 ---
-
-<p align="center"><i>Open to conversations about product, technology, and building things people actually want to use.</i></p>
