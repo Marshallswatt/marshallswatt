@@ -18,9 +18,9 @@ Syracuse, NY · [marshallswatt@gmail.com](mailto:marshallswatt@gmail.com) · [Li
 
 ### Currently
 
-Advising real estate portfolio companies as an independent AI product consultant — building lightweight internal tools (iOS field-ops MVP, a market-data dashboard) and identifying operating and insurance efficiencies for clients.
+Fractional CPO + CTO Advising companies. Building lightweight internal tools (iOS field-ops MVP, a market-data dashboard) and identifying operating and insurance efficiencies for clients.
 
-Also building AI product skills: agent harnesses, evals, and multi-agent workflows, using Cursor and both frontier and private LLMs.
+Applying AI expertise to build AI skills, harnesses, evals, and multi-agent workflows, using Cursor and both frontier and private LLMs.
 
 ### Background
 
